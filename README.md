@@ -1,5 +1,6 @@
 # Lesson1
 ## make words into sentences
+```c#
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -30,4 +31,4 @@ namespace lesson1_console
         }
     }
 }
-
+```
